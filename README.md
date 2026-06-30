@@ -24,6 +24,7 @@ The analytical schema was connected directly to Power BI to render a sleek, corp
 * *Data Modeling:* Loaded the star-schema design directly, configuring relational multi-cardinalities (1-to-many relationships) cleanly between dimensional layers.
 * *DAX Engineering:* Programmed high-value Data Analysis Expressions (DAX) metrics to accurately track business health indicators (including Total Revenue, Orders, Average Basket Size, and Quality Metric Indexes).
 * *UI/UX Optimization:* Converted statistical outputs into structured visuals using dynamic Gauge charts, structured horizontal bar charts, clean categorical filters, funnel and donut chart designed for stakeholder review.
+* [Dashboard Lyout Preview](dashboard_preview.jpg)
 
 ---
 
